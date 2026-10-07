@@ -4,6 +4,8 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 This is what I changed for workshop.
 
+Change for another test again.
+
 This synthetic repository supports two workshops:
 
 1. **GitHub Foundations for Scientific Work**
